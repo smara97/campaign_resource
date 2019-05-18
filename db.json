@@ -1,17 +1,37 @@
 {
   "Name": [
-    {  "title": "Post 1" },
-    {  "title": "Post 2" },
-    {  "title": "Post 3" }
-],
-  "comments": [
-    { "body": "some comment", "postId": 1 },
-    {  "body": "some comment", "postId": 1 }
-],
-  "profile": {
-    "named": "typicode"
-  },
-  "profilet": {
-    "namedt": "typicode"
-  }
+    { "who":"n1" },
+    { "who":"n2"},
+    { "who":"n3"},
+    { "who":"n4"},
+    { "who":"n5"}
+  ],
+  "Country": [
+    { "countryy": "USA"},
+    { "countryy": "USA"},
+    { "countryy": "EGY"},
+    { "countryy": "USA"},
+    { "countryy": "USA"}
+  ],
+  "Budget": [
+    { "budgett": 149},
+    { "budgett": 149},
+    { "budgett": 149},
+    { "budgett": 149},
+    { "budgett": 149}
+    ],
+  "Goal": [
+    {"goall": "Awareness"},
+    {"goall": "Awareness"},
+    {"goall": "Awareness"},
+    {"goall": "Awareness"},
+    {"goall": "Conversion"}
+    ],
+  "category": [
+    {"cat": "Technology"},
+    {"cat": "Sport"},
+    {"cat": "Technology"},
+    {"cat": "Sport"},
+    {"cat": "Sport"}
+    ],
 }
