@@ -1,1 +1,37 @@
-{"posts":{"url":"https://arabic.cnn.com/","category":{"name":"Family and Relationships","id":4}}}
+{
+  "Name": [
+    { "name":"n1" },
+    { "name":"n2"},
+    { "name":"n3"},
+    { "name":"n4"},
+    { "name":"n5"}
+  ],
+  "Country": [
+    { "country": "USA"},
+    { "country": "USA"},
+    { "country": "EGY"},
+    { "country": "USA"},
+    { "country": "USA"}
+  ],
+  "Budget": [
+    { "budget": 149},
+    { "budget": 149},
+    { "budget": 149},
+    { "budget": 149},
+    { "budget": 149}
+    ],
+  "Goal": [
+    {"goal": "Awareness"},
+    {"goal": "Awareness"},
+    {"goal": "Awareness"},
+    {"goal": "Awareness"},
+    {"goal": "Conversion"}
+    ],
+  "category": [
+    {"cat": "Technology"},
+    {"cat": "Sport"},
+    {"cat": "Technology"},
+    {"cat": "Sport"},
+    {"cat": "Sport"}
+    ],
+}
